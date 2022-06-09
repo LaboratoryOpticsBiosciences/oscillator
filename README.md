@@ -13,7 +13,8 @@ The system will have to satisfy certain requirements; portability, waterproofnes
 <img src="https://github.com/LaboratoryOpticsBiosciences/oscillator/blob/main/IMG_0414.png" width="500" height="500">
 </p>
 
-
+<p align="center">
+<video src="https://user-images.githubusercontent.com/72197618/172814975-61cae112-8044-4110-936e-32ba1872cf7b.mov" width="500" height="500">
+</p>
 https://user-images.githubusercontent.com/72197618/172814975-61cae112-8044-4110-936e-32ba1872cf7b.mov
 
-![IMG_0414](https://user-images.githubusercontent.com/72197618/172815169-979a6e9d-91b3-4071-978d-397c529b8cf9.png)
