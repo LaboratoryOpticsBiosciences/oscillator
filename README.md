@@ -10,5 +10,5 @@ The mechanical actuation system will be realized from parts designed and 3D prin
 The system will have to satisfy certain requirements; portability, waterproofness and size related to the use in sterile cell culture environment. 
 
 <p align="center">
-<img src="https://github.com/LaboratoryOpticsBiosciences/oscillator/blob/main/IMG_0414.png" width="100" height="100">
+<img src="https://github.com/LaboratoryOpticsBiosciences/oscillator/blob/main/IMG_0414.png" width="500" height="500">
 </p>
